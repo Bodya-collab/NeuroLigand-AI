@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+rdkit-pypi
+meeko
+numpy
+scipy
+pydantic

@@ -1,0 +1,14 @@
+python -m uvicorn app.main:app --reload
+.\.venv\Scripts\activate
+ctrl c 
+CC(C)NCC(O)COc1cccc2ccccc12
+pip install sqlalchemy
+
+taskkill /F /IM vina.exe
+python sort_results.py
+pip install ipython_genutils
+
+python check_db.py
+python -m streamlit run frontend.py
+
+pip install meeko scipy
